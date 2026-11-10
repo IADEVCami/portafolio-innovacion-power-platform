@@ -56,4 +56,4 @@ Más detalle en la carpeta [capturas](capturas/).
 
 ## Contacto
 
-[Nombre] · [Correo] · [LinkedIn]
+Cristhian Camilo Ramírez 
