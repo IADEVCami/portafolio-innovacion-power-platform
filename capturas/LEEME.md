@@ -7,6 +7,7 @@ Capturas de las apps con datos ficticios.
 | 01a_reporte_danos_inicio.png | Reporte de daños: pantalla de inicio |
 | 01c_reporte_danos_pendientes.png | Reporte de daños: "Mis reportes pendientes" |
 | 01b_reporte_danos_formulario.png | Reporte de daños: formulario rediseñado |
+| 01d_reporte_danos_detalle.png | Reporte de daños: detalle del reporte con la foto de evidencia y el cambio de estado |
 | 02_auditoria_hse.png | Auditoría HSE: formulario del celular |
 | 03_control_acceso_ingreso.png | Control de acceso: registro de ingreso con políticas y firma |
 | 03b_control_acceso_salida.png | Control de acceso: contratistas dentro de la sede, con su firma, y registro de salida |

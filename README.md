@@ -42,7 +42,7 @@ Prototipos de soluciones para operaciones de servicios de alimentación y facili
 
 **Reporte de daños (celular)**
 
-<img src="capturas/01a_reporte_danos_inicio.png" width="220" alt="Reporte de daños, inicio"> <img src="capturas/01b_reporte_danos_formulario.png" width="220" alt="Reporte de daños, formulario"> <img src="capturas/01c_reporte_danos_pendientes.png" width="220" alt="Reporte de daños, pendientes">
+<img src="capturas/01a_reporte_danos_inicio.png" width="220" alt="Reporte de daños, inicio"> <img src="capturas/01b_reporte_danos_formulario.png" width="220" alt="Reporte de daños, formulario"> <img src="capturas/01c_reporte_danos_pendientes.png" width="220" alt="Reporte de daños, pendientes"> <img src="capturas/01d_reporte_danos_detalle.png" width="220" alt="Reporte de daños, detalle con foto de evidencia">
 
 **Auditoría HSE (celular)**
 
